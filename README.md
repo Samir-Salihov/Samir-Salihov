@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/32903534/README.md)
 <img src="assets/hero.svg" width="100%" alt="Samir Salihov — backend developer and product analyst" />
 
 <img src="https://raw.githubusercontent.com/Samir-Salihov/Samir-Salihov/output/card.svg" width="100%" alt="Profile card" />
