@@ -1,16 +1,25 @@
-## Hi there 👋
+[README.md](https://github.com/user-attachments/files/32903534/README.md)
+<img src="assets/hero.svg" width="100%" alt="Samir Salihov — backend developer and product analyst" />
 
-<!--
-**Samir-Salihov/Samir-Salihov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/Samir-Salihov/Samir-Salihov/output/card.svg" width="100%" alt="Profile card" />
 
-Here are some ideas to get you started:
+<!-- Replace links with your own or remove unused badges -->
+<p>
+  <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-FFE600?style=for-the-badge&logo=telegram&logoColor=0A0A0A" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-FFE600?style=for-the-badge&logo=linkedin&logoColor=0A0A0A" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-FFE600?style=for-the-badge&logo=gmail&logoColor=0A0A0A" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Samir-Salihov/Samir-Salihov/invaders/commit-invaders-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Samir-Salihov/Samir-Salihov/invaders/commit-invaders.svg" />
+  <img src="https://raw.githubusercontent.com/Samir-Salihov/Samir-Salihov/invaders/commit-invaders.svg" width="100%" alt="Commit Invaders" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Samir-Salihov/Samir-Salihov/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Samir-Salihov/Samir-Salihov/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/Samir-Salihov/Samir-Salihov/output/snake.svg" width="100%" alt="Snake" />
+</picture>
+
+<img src="assets/footer.svg" width="100%" alt="" />
